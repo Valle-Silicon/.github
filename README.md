@@ -27,23 +27,12 @@
 
 ## 🛠️ Nuestro stack (ajustar según corresponda)
 
-- **Frontend:** [React], [Next.js], [TypeScript], [Tailwind CSS]
-- **Backend:** [Node.js]/[NestJS]/[Express], [TypeScript]
-- **Datos:** [PostgreSQL]/[MySQL], [Prisma]/[TypeORM]
-- **Infra:** [Docker], [GitHub Actions], [Vercel]/[AWS]/[GCP]
-- **QA:** Jest, Vitest, Playwright, ESLint, Prettier
-
-> Si tu proyecto requiere otras tecnologías, las evaluamos y proponemos la mejor opción.
-
+- **Frontend:** [React], [Next.js], [TypeScript], [Tailwind CSS], [Shadcn]
+- **Backend:** [Express], [TypeScript]
+- **Datos:** [Firebase], [Subabase] 
+- **Infra:** [Docker], [GitHub Actions]
 ## 🗂️ Estructura de la organización
-
-- `valle-silicon/www` – Sitio web y portafolio de la empresa  
-- `valle-silicon/starter-web` – Plantilla base para proyectos web  
-- `valle-silicon/ui` – Librería interna de componentes  
-- `valle-silicon/cli` – Utilidades de automatización  
-- `valle-silicon/.github` – Plantillas de issues, PRs y workflows
-
-*(Ajusta los nombres/repos según tu organización real.)*
+- `valle-silicon/vs-base` – Plantilla base para proyectos web
 
 ## 🧭 Cómo trabajamos
 
@@ -65,30 +54,14 @@
 
 ## 🔒 Seguridad
 
-- Reporta vulnerabilidades a **security@vallesilicon.com** (recomendado: divulgación responsable).
+- Reporta vulnerabilidades a **valle.silicon.seguridad@gmail.com**.
 - No compartas secretos en issues/PRs. Usa variables de entorno y gestores de secretos.
-
-## 📈 Indicadores de calidad (ejemplos)
-
-- Cobertura mínima de pruebas: **80%**  
-- Performance web (Lighthouse): **90+**  
-- Accesibilidad: **WCAG AA**  
-
-*(Ajusta objetivos a tu realidad.)*
 
 ## 📞 Contacto
 
-- **Sitio:** https://vallesilicon.com *(coloca tu dominio real)*
-- **Email:** hola@vallesilicon.com
-- **LinkedIn:** https://www.linkedin.com/company/valle-silicon
-- **Ubicación:** [Ciudad, País]
-- **Horario de atención:** Lun–Vie, 9:00–18:00
-
-## 📄 Licencia
-
-Este repositorio/organización utiliza la licencia **MIT** salvo que se indique lo contrario en cada proyecto.
-
----
-
-> ¿Tienes una idea o problema que resolver? **Escríbenos** y armamos un plan en menos de 48 horas.
+- **Sitio:** Pendiente*
+- **Email:** Pendiente
+- **LinkedIn:** Pendiente
+- **Ubicación:** [Morelia Michoacán, Mexico]
+- **Horario de atención:** Cerrado
 
